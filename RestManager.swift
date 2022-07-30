@@ -1,5 +1,3 @@
-/ Veeral Suthar
-
 import Foundation
 
 class RestManager {
